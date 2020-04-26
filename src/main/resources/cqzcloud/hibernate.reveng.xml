@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+	<table-filter match-name="area_info" match-catalog="cqzcloud"></table-filter>
+	<!-- <table-filter match-name="areainfo" match-catalog="cqzcloud"></table-filter> -->
+	<table-filter match-name="bp_record" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="char_record" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="disease_info" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="group_audit" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="group_info" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="group_member" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="group_notice" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="lesson_info" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="member_info" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="member_lesson" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="plan_info" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="plan_result" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="qs_info" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="qs_info_repos" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="qs_repos" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="qs_result" match-catalog="cqzcloud"></table-filter>
+	<table-filter match-name="test" match-catalog="cqzcloud"></table-filter>
+</hibernate-reverse-engineering>

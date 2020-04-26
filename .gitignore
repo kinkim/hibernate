@@ -1,0 +1,28 @@
+###  IDEA ###
+.idea/*
+*.iml
+*/target/*
+*/*.iml
+/.project
+/.settings/
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ECLIPSE ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+/bin/
+
